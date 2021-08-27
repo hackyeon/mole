@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">두더지게임</string>
+    <string name="button_start">시작</string>
+    <string name="end_button">종료</string>
+    <string name="high_score">최고 기록</string>
+    <string name="end_game_message">종료하시겠습니까?</string>
+    <string name="cancel_button">취소</string>
+</resources>
